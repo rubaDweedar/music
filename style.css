@@ -1,0 +1,30 @@
+
+.color{
+    background-color: #f4a261;
+}
+.press{
+    font-size: 80px;
+}
+.find{
+    color: rgb(189, 189, 189);
+}
+.play{
+    background-image: url("music.jpg");
+    background-size: 100% ;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.hiring{
+    background-color: #f4a261;     
+}
+.circle{
+    font-size: 10px;
+}
+#arrow1:hover{
+    color: white;
+}
+#arrow2:hover{
+    color: white;
+}
